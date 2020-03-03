@@ -1,2 +1,3 @@
-# devops
-Para aulas de Devops
+django
+training day
+cidade de Deus
